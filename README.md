@@ -8,10 +8,10 @@ web development final-year-project github Includes Source Code, PPT, Synopsis, R
 4. Air Pollution AQI Website Project                           :https://youtu.be/QGF0D7d53i4?si=VUc_BCqRg3BYXVHY
 5. Fashion Ecommerce Website                                   :https://youtu.be/TRLH8fG-uyU?si=uTIwULIG4uMDSZaR
 6. URL Phishing Detection System                               :https://youtu.be/nDxP_lJmVk4?si=0ttLR4zsoJani-ay
-7. Shopping Website Development Project	                       :https://youtu.be/E4kKiF0RxHM?si=cboPk7nPHogq1AJ9    
-8. Spa Centre	                                               :https://youtu.be/3yqVkelIZYk?si=s8Q0Y3NI_EO8bJiE
-9. Chatbot Website React Project	                           :https://youtu.be/LrAG9InUQes?si=nrrkkEc4nY3inagL
-10.College Library Web Development Project	                   :https://youtu.be/CB2nGRGCRl4?si=X0SXA_KAEnJulYvH
+7. Shopping Website Development Project	                     :https://youtu.be/E4kKiF0RxHM?si=cboPk7nPHogq1AJ9    
+8. Spa Centre	                                                :https://youtu.be/3yqVkelIZYk?si=s8Q0Y3NI_EO8bJiE
+9. Chatbot Website React Project	                              :https://youtu.be/LrAG9InUQes?si=nrrkkEc4nY3inagL
+10. College Library Web Development Project	                   :https://youtu.be/CB2nGRGCRl4?si=X0SXA_KAEnJulYvH
    
 ### Project include: 
 
